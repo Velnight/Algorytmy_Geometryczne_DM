@@ -1,1 +1,2 @@
-# Algorytmy_Geometryczne_DM
+# Algorytmy_Geometryczne_DM  
+Rozwiązania zadań
